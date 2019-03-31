@@ -1,0 +1,49 @@
+{
+    "name": "buffalo chicken jalapeno popper casserole",
+    "ingredients": [
+            {
+                "name": "chicken thighs",
+                "quantity": 2,
+                "units": "lb"
+            },
+            {
+                "name": "bacon",
+                "quantity": 6,
+                "units": "slices"
+            },
+            {
+                "name": "jalapenos",
+                "quantity": 3,
+                "units": "Null"
+            },
+            {
+                "name": "cream cheese",
+                "quantity": 12,
+                "units": "oz"
+            },
+            {
+                "name": "mayonnaise",
+                "quantity": 0.25,
+                "units": "cups"
+            },
+	    {
+		"name": "shredded cheddar",
+		"quantity": 4,
+		"units": "oz"
+	    },
+	    {
+		"name": "shredded mozzarella",
+		"quantity": 2,
+		"units": "oz"
+	    },
+	    {
+		"name": "Frank's Red Hot",
+		"quantity": 0.25,
+		"units": "cups"
+	    }
+        ],
+    "steps": "Cook chicken thighs at 400F for approximately 40 minutes. For filling, cut up bacon and cook over medium heat until crispy. Once crispy, add diced jalapenos and cook until soft. Add the cream cheese, mayo, and Frank's red hot. Mix thoroughly. Place chicken in casserole dish and top with above mixture. Top everything with shredded cheese. Bake for 10-15 min at 400F.",
+    "diet": "keto",
+    "recipe_type": "Null",
+    "meat": "chicken"
+}

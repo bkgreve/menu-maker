@@ -1,3 +1,6 @@
+# org-mode files
+*.org
+config.ini
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
